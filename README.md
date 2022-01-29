@@ -1,4 +1,4 @@
-# blog-alone2 프로젝타
+# blog-alone2 프로젝트
 
 ### 기능 정리
 - 환경설정
